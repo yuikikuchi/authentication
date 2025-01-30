@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Auth01Application<auth01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.auth01.Auth01Application",
+            "projectName": "auth01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
